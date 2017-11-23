@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "143330225747",
+    "firebase_url": "https://unitedfc-1b222.firebaseio.com",
+    "project_id": "unitedfc-1b222",
+    "storage_bucket": "unitedfc-1b222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143330225747:android:1afac1546bebd0b5",
+        "android_client_info": {
+          "package_name": "leung.philip.a06united"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143330225747-f4epklkpbcv9sp2m5d70u3pdnoudr0n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "leung.philip.a06united",
+            "certificate_hash": "51fef1ccdd7181f2fd4b01706b0b40346eb6700f"
+          }
+        },
+        {
+          "client_id": "143330225747-arbrhgh6uj9cd2gdmv8t3n9hbejn7fb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8JthBRTMlw-yx2FAFhKDfA8KLARERmdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143330225747-arbrhgh6uj9cd2gdmv8t3n9hbejn7fb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143330225747-4p4mirgqkrt9rppovc6bk6ucigbchkel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sing.-06Unite-FC"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
